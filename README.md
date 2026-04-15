@@ -4,6 +4,15 @@ Dashboard de ventas en Power BI sobre el mercado de productos Nike
 en Estados Unidos. Analiza facturación, rentabilidad, mix de producto
 y performance regional con DAX avanzado y narrativa dinámica.
 
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjI0NDI3MjctYzU2NS00YTZlLWJhNWUtMzE5M2VlMzE1MWEyIiwidCI6IjViMGFiY2EyLWUwYjYtNGYwYS1iODc4LWE3YmM1Mjg4M2NhMCIsImMiOjR9" target="_blank">
+    <img src="https://img.shields.io/badge/ACCEDER_AL_DASHBOARD_INTERACTIVO-EA3D2F?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" alt="Ver Dashboard" />
+  </a>
+</p>
+
+---
+
 ## 🎯 Objetivo
 
 Identificar qué productos, regiones y categorías concentran
